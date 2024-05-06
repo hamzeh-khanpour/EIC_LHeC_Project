@@ -1,0 +1,22 @@
+ First iteration    1747.5191904905189              568   3.0766182931171109     
+After minimisation    1747.52   568     3.077
+
+  Partial chi2s 
+Dataset    1     63.40( +3.28)    88  EIC CCep 18x275 realistic                       
+Dataset    2    418.09( -1.46)    55  EIC NCep 5x41 realistic                         
+Dataset    3    477.38(-10.19)    78  EIC NCep 5x100 realistic                        
+Dataset    4    299.91( -0.50)    90  EIC NCep 10x100 realistic                       
+Dataset    5    248.46( +8.53)   129  EIC NCep 10x275 realistic                       
+Dataset    6    235.52( -4.07)   142  EIC NCep 18x275 realistic                       
+
+ Correlated Chi2    9.1751507157167289     
+ Log penalty Chi2   -4.4187973404350078     
+ Systematic shifts            6
+  
+                                Name          Shift   +/-    Error          Type
+    1  normCC18x275                           2.0692   +/-   0.1981        :N:M:D
+    2  norm5x41                              -0.3605   +/-   0.0764        :N:M:D
+    3  norm5x100                             -1.9146   +/-   0.0646        :N:M:D
+    4  norm10x100                            -0.0090   +/-   0.0615        :N:M:D
+    5  norm10x275                             0.9584   +/-   0.0517        :N:M:D
+    6  norm18x275                            -0.4236   +/-   0.0513        :N:M:D

@@ -1,5 +1,5 @@
 !*  EIC File produced by kk; data provided by Barak Schmookler  
- !*  Created on 24.08.21  
+ !*  Created on 24.08.21 - Modified for HERAPDF20_ALPHAS_118 on 6 May 2024   
   
 &Data  
   Name = "EIC NCep 5x41 realistic"  

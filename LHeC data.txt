@@ -1,0 +1,17 @@
+
+D1 & D2:    datlhec760lowLncem
+            datlhec760lowLccem
+
+
+
+D4:   datlhec760ncem
+      datlhec760ccem
+	  
+	  
+D8:   datlhec760lowLncemppol (L=30)-> Table. (L=10)
+      datlhec760lowLccemppol (L=30)-> Table. (L=10)
+	  
+
+D9:   datlhec760ncep (L=300)-> Table. (L=50)
+      datlhec760ccep (L=300)-> Table. (L=50)   
+	  

@@ -116,7 +116,7 @@ Profiler:
   WriteTheo: "Asymmetric"            # Can be "Off", "On" or "Asymmetric" (to store asymmetric variations)
   getChi2: "On"              # determine and report chi2 for each variation
 
-OutputDirectory: "EIC_Simulated_Data_HERAPDF20_NNLO_ALPHAS_118" #Can be omitted, default is "output"
+OutputDirectory: "LHeC_Simulated_Data_HERAPDF20_NNLO_ALPHAS_118" #Can be omitted, default is "output"
 
 WriteLHAPDF6:
   name: "proton"
